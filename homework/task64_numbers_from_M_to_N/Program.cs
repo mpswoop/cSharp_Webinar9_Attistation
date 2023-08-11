@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// write numbers from M to N
 Console.WriteLine("input number M");
 int numM = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("input number N");
